@@ -1,25 +1,25 @@
 # rakshabandhan.project
 
-# 🌸 Raksha Bandhan Celebration Website
+# Raksha Bandhan Celebration Website
 
 This is a beautifully designed and emotionally touching Raksha Bandhan website made using HTML, CSS, and JavaScript.  
 It celebrates the unbreakable bond between brothers and sisters with interactive visuals and heartfelt content.
 
-## 🎁 Features
+## Features
 
-- 🧵 A decorative Rakhi-thread style button on the landing screen
-- 🎬 Curtain-style reveal animation on click
-- 💖 Scene showing a sister tying Rakhi to her brother
-- ✨ Heart-touching sibling quotes with emojis
-- 🎨 Aesthetic pastel color palette and responsive layout
-- 💫 Smooth animations, glowing effects, and floating hearts
-- 📱 Fully responsive for mobile and desktop devices
+-  A decorative Rakhi-thread style button on the landing screen
+-  Curtain-style reveal animation on click
+-  Scene showing a sister tying Rakhi to her brother
+-  Heart-touching sibling quotes with emojis
+-  Aesthetic pastel color palette and responsive layout
+-  Smooth animations, glowing effects, and floating hearts
+-  Fully responsive for mobile and desktop devices
 
-## 📸 Preview
+##  Preview
 
-![Screenshot](screenshot.png) <!-- You can add your own screenshot image later -->
+![Screenshot] <!-- You can add your own screenshot image later -->
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - HTML5
 - CSS3 (with animations)
